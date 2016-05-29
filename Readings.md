@@ -38,3 +38,12 @@
 ```
 1. 《POSIX多线程程序设计》
 ```
+
+### 6. Excellent reference
+
+```
+1. ACM and other thesis (professional)
+2. weekly magazine
+3. healthy and continued Reading (English version first)
+4. RFC documents(Request for comments)
+```
